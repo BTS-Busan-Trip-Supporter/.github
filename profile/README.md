@@ -46,8 +46,8 @@
             국민대학교
         </td>
         <td style="min-width: 150px;">
-            <a href="https://github.com/leejh">
-              <img src="https://github.com/leejh.png" width="100">
+            <a href="https://github.com/leejh7">
+              <img src="https://github.com/leejh7.png" width="100">
               <br />
               <b>이준호(leejh)</b>
             </a> 
