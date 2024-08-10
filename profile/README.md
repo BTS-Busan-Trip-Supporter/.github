@@ -17,13 +17,6 @@
               부산대학교
         </td>
         <td style="min-width: 150px;">
-          <img src = "https://github.com/BTS-Busan-Trip-Supporter/.github/assets/91869302/90d4326e-a7d8-46b9-ab70-87575b6a67ce" width="100">
-          <br />
-          <b>김민채</b>
-          <br/>
-              부산대학교
-        </td>
-        <td style="min-width: 150px;">
             <a href="https://github.com/he2e2">
               <img src="https://github.com/he2e2.png" width="100">
               <br />
@@ -63,9 +56,6 @@
     <tr align="center">
         <td>
             PM
-        </td>
-        <td>
-            Design
         </td>
         <td>
             Frontend
